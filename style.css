@@ -1,0 +1,40 @@
+body
+{
+background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    text-align: center;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+float: right;
+border: 2px solid navy;
+}
+
+h4{
+    line-height: 2;
+    background-color: cornflowerblue;
+    margin: 0px;
+    bottom:0;
+    position: fixed;
+    width:100%;
+    text-align: center;
+}
+
+.instruction_image{
+    width:100%;
+    display: inline-block;
+}
+
+canvas{
+    border-radius: 10px;
+    border:2px solid white;
+    box-shadow: 5px 5px 5px lightgreen ;
+    margin-top: 110px;
+}
